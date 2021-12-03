@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7aa621e5-0a3c-4f3a-842a-013107ee41c0": {
+      "ProjectGuid": "7aa621e5-0a3c-4f3a-842a-013107ee41c0",
+      "DisplayName": "P5_2_1204039",
+      "ColorIndex": 0
+    },
+    "ad6d49a8-f2bb-47c6-87fc-4dbf4806f63c": {
+      "ProjectGuid": "ad6d49a8-f2bb-47c6-87fc-4dbf4806f63c",
+      "DisplayName": "P5_2_1204039_TestClock",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
